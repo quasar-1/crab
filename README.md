@@ -1,4 +1,4 @@
-# Crab: A Language-Agnostic Library for Static Analysis #
+# Crab: A Language-Agnostic Library for Static Analysis   #
 
 <img src="http://i.imgur.com/IDKhq5h.png" alt="crab logo" width=280 height=200 />
 
