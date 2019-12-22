@@ -6,7 +6,7 @@ if (CMAKE_SOURCE_DIR STREQUAL CMAKE_BINARY_DIR )
   message (FATAL_ERROR 
     "In-source builds are not allowed. Please clean your source tree and try again.")  
 endif()
-
+# test
 # determine if this is top-level or embedded project
 if (PROJECT_NAME STREQUAL CMAKE_PROJECT_NAME)
   set (TopLevel TRUE)
